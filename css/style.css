@@ -1,0 +1,58 @@
+nav ul li a:hover{
+    color: black !important;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hr{
+    border: 0;
+    height: 1px;
+    background-color: black;
+    opacity: 1;
+    /* font-size: 10px; */
+}
+
+.text-justify{
+    text-align: justify;
+}
+/* 
+input::placeholder{
+    color: red !important;
+} */
+
+.mycard{
+    transition: 0.5s ease;
+}
+.mycard:hover
+{
+    margin-top: -20px;  
+}
+.zoom-in:hover div img
+{
+    transform: scale(1.2);
+}
+.zoom-in img{
+    transition: 0.5s ease;
+}
+.zoom-in div{
+    overflow: hidden;
+}
+.regcard{
+    box-shadow: 10px 10px 0 #0D6EFD;
+}
+.aboutimg{
+    box-shadow: 10px 10px 2px lightgray;
+}
+
+.banner1{
+    background-image: url(../images/about.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 300px;
+    color: white;
+}
+
+.row .col-sm-12 h1{
+    line-height: 170px;
+}

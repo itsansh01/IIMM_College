@@ -1,0 +1,124 @@
+Bootstrap:-
+
+Classes:-
+    .bg-dark
+    .bg-primary
+    .bg-success
+    .bg-danger
+    .bg-light
+    .bg-info
+    .bg-warning
+    .bg-secondary
+
+
+    .text-primary
+    .text-light
+    .text-info
+    .text-warning
+    .text-dark
+    .text-success
+    .text-danger
+    .text-secondary
+
+Padding:-
+    p-1
+    p-2
+    p-3
+    p-4
+    p-5
+
+Padding-top:-
+    pt-1
+    pt-2
+    pt-3
+    pt-4
+    pt-5
+
+Padding-left:-
+    ps-1
+    ps-2
+    ps-3
+    ps-4
+    ps-5
+
+Padding-bottom:-
+    pb-1
+    pb-2
+    pb-3
+    pb-4
+    pb-5
+
+Padding-right:-
+    pe-1
+    pe-2
+    pe-3
+    pe-4
+    pe-5
+
+Padding-left and right:-
+    px-1
+    px-2
+    px-3
+    px-4
+    px-5
+
+Padding-top and bottom:-
+    py-1
+    py-2
+    py-3
+    py-4
+    py-5
+
+
+Margin:-
+    m-1 to m-5, m-auto
+
+Margin-top:-
+    mt-1 to mt-5, mt-auto
+
+Margin-left:-
+    ms-1 to ms-5, ms-auto
+
+Margin-right:-
+    me-1 to me-5, me-auto
+
+Margin-bottom:-
+    mb-1 to mb-5, mb-auto
+
+Margin-left and right:-
+    mx-1 to mx-5, my-auto
+
+Margin-top and bottom:-
+    my-1 to my-5, my-auto
+
+
+Width:-
+    w-25,w-50,w-75,w-100
+
+Height:-
+    h-25,h-50,h-75,h-100
+
+text-align:-
+    text-center, text-start, text-end
+
+border:-
+    border
+
+border:-
+    border-1 to border-5
+
+Border-color:-
+    border-light, border-danger, border-primary, border-info, border-secondary
+
+Border:-
+    border-top-, border-bottom-, border-start-, border-end-
+
+Border-radius:-
+    rounded,
+    rounded-1 to rounded-5
+    rounded-pill
+    rounded-circle
+
+extra extra large screen 1400
+extra large screen 1200px
+large screen 991px
